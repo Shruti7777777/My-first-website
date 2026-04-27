@@ -11,7 +11,7 @@ TOOLS I USED-
 2) CSS
 3) VS CODE
 Also credit goes to horizons workshop @MaxWofford.
-Also I am a beginner so I took some help of AI but I DIDN'T COPY PAST also
+Also I am a beginner so I took some help of AI but I DIDN'T COPY PASTE also
 I used to learn html and css.
 like transition,layers. backgorund color .
 I learnt how to do all thse things I am still learning .
